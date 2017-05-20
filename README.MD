@@ -6,3 +6,5 @@
 - Cena 3: Tang Lung (Bruce Lee) e Colt (Chuck Norris) se encaram, ambos se preparam para lutar.
 
 - Cena 4: Tang Lung (Bruce Lee) derrota Colt (Chuck Norris) depois de uma luta disputada.
+
+- Cena 5: Esse commit foi criado pelo samuka
